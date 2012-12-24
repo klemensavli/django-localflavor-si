@@ -1,0 +1,42 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Abraham Estrada <abraham.estrada@gmail.com>, 2011, 2012.
+# msmtotti <figo10mexico@gmail.com>, 2011.
+# zodman <zodman@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-si\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:35-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Abraham Estrada <abraham.estrada@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:24
+msgid "This field should contain exactly 13 digits."
+msgstr "Este campo debe contener exactamente 13 dígitos."
+
+#: forms.py:25
+msgid "The first 7 digits of the EMSO must represent a valid past date."
+msgstr ""
+"Los 7 primeros dígitos del EMSO deben representar una fecha pasada válida."
+
+#: forms.py:26
+msgid "The EMSO is not valid."
+msgstr "El EMSO no es válido."
+
+#: forms.py:86
+msgid "Enter a valid tax number in form SIXXXXXXXX"
+msgstr ""
+"Introduzca un número de identificación fiscal válida en forma SIXXXXXXXX"
+
+#: forms.py:151
+msgid "Enter phone number in form +386XXXXXXXX or 0XXXXXXXX."
+msgstr ""
+"Introduzca el número de teléfono en el formato +386 XXXXXXXX o 0XXXXXXXX."
