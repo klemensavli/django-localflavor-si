@@ -37,4 +37,4 @@ msgstr "Vnesite veljavno davčno številko v zapisu SIXXXXXXXX"
 
 #: forms.py:151
 msgid "Enter phone number in form +386XXXXXXXX or 0XXXXXXXX."
-msgstr "Vnesite telefonsko številko v zapisu +386XXXXXXXX ali 0XXXXXXXX."
+msgstr "Vnesite telefonsko številko v obliki +386XXXXXXXX ali 0XXXXXXXX."
